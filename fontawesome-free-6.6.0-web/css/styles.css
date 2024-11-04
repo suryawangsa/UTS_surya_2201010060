@@ -516,4 +516,7 @@ span {
   .contact form .input-box input {
     width: 100%;
   }
+  .about-content {
+    margin-top: 30px;
+  }
 }
